@@ -17,7 +17,7 @@ A curated catalog of free and open source software for budgeting, expense tracki
 
 ---
 
-## Budgeting & Money Management
+### Budgeting & Money Management
 
 * **[maybe](https://github.com/maybe-finance/maybe)** — personal finance OS for budgets, cash flow, and net worth tracking.
 * **[actual](https://github.com/actualbudget/actual)** — local-first personal budgeting app with envelope budgeting and bank sync.
@@ -33,7 +33,7 @@ A curated catalog of free and open source software for budgeting, expense tracki
 * **[moneynote-api](https://github.com/getmoneynote/moneynote-api)** — self-hosted accounting API and UI for personal and small-business books.
 * **[budgetzero](https://github.com/budgetzero/budgetzero)** — zero-based budgeting web app for planning every dollar.
 
-## Expense Tracking
+### Expense Tracking
 
 * **[Bagels](https://github.com/EnhancedJax/Bagels)** — self-hosted expense and budget tracker with bank sync.
 * **[dimeApp](https://github.com/rafsoh/dimeApp)** — modern expense tracker with categories, reports, and CSV import.
@@ -41,31 +41,31 @@ A curated catalog of free and open source software for budgeting, expense tracki
 * **[expenses](https://github.com/jakubgarfield/expenses)** — simple web app for daily expense and income logging.
 * **[MyExpenses](https://github.com/mtotschnig/MyExpenses)** — Android-first personal finance and expense manager with multi-account support.
 
-## Investment & Portfolio Tracking
+### Investment & Portfolio Tracking
 
 * **[portfolio](https://github.com/portfolio-performance/portfolio)** — desktop investment tracker with performance, dividend, and benchmark analytics.
 * **[ghostfolio](https://github.com/ghostfolio/ghostfolio)** — self-hosted wealth management platform for stocks, ETFs, and crypto.
 * **[investbrain](https://github.com/investbrainapp/investbrain)** — self-hosted multi-portfolio tracker with rebalancing and analysis.
 * **[rotki](https://github.com/rotki/rotki)** — privacy-focused portfolio tracker and tax calculator for crypto and traditional assets.
 
-## Crypto Tracking & Wallets
+### Crypto Tracking & Wallets
 
 * **[cointop](https://github.com/cointop-sh/cointop)** — terminal-based crypto market tracker inspired by htop.
 * **[WalletWasabi](https://github.com/WalletWasabi/WalletWasabi)** — privacy-focused Bitcoin desktop wallet with CoinJoin.
 
-## Self-Hosted Accounting (Double-Entry)
+### Self-Hosted Accounting (Double-Entry)
 
 * **[gnucash](https://github.com/GNUcash/gnucash)** — long-running personal and small-business double-entry accounting app.
 * **[kmymoney](https://github.com/KDE/kmymoney)** — KDE personal finance manager with double-entry bookkeeping and investment tracking.
 * **[moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)** — cross-platform personal finance manager with accounts, budgets, and reports.
 
-## Command-Line & Plain-Text Accounting
+### Command-Line & Plain-Text Accounting
 
 * **[ledger](https://github.com/ledger/ledger)** — command-line double-entry accounting with plain-text journals and powerful reporting.
 * **[beancount](https://github.com/beancount/beancount)** — plain-text double-entry bookkeeping language with strict typing and importers.
 * **[fava](https://github.com/beancount/fava)** — web frontend for Beancount ledgers with reports, queries, and charts.
 
-## Companion & Visualization Tools
+### Companion & Visualization Tools
 
 * **[firefly-pico](https://github.com/cioraneanu/firefly-pico)** — companion dashboard and visualization layer for Firefly III.
 
